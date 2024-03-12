@@ -17,5 +17,15 @@ PROFILE TESTING IN GITHUB
 </p>
 
 ###
+<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+</p>
 
+###
+
+<p align="center">
+  <img  height="500" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/6fe6c94c-29ce-4b22-aa5f-41a7dd256bed">
+</p>
+
+###
 
