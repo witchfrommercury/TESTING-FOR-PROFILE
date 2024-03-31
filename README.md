@@ -1,9 +1,9 @@
 # CYLINDIRCAL MANIPULATOR OF COMPANY 8
-PROFILE TESTING IN GITHUB
+
 ###
 
-<img align="left" height="273" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/eefd97a7-eb06-4151-9470-64c19e1b5ac4"/> 
-<img align="right" height="273" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/eefd97a7-eb06-4151-9470-64c19e1b5ac4"/> 
+<img align="left" height="270" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/eefd97a7-eb06-4151-9470-64c19e1b5ac4"/> 
+<img align="right" height="270" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/eefd97a7-eb06-4151-9470-64c19e1b5ac4"/> 
 </p>
 
 .
@@ -44,4 +44,119 @@ PROFILE TESTING IN GITHUB
 ###
 
 ###
-<img align="left" height="80" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/010a6ab4-8df0-48ef-b9be-3301cc4b7144"/> 
+
+
+
+###
+
+
+
+###
+.
+
+
+###
+
+###
+
+.
+
+###
+###
+
+.
+
+###
+
+# Introduction 
+
+A cylindrical manipulator is an example of robotic device designed for three-dimensional object handling. It is also referred to as a cylindrical arm or robot. Just like the other robotic instruments, cylinder manipulators are designed to do the tasks that are not safe, hard labor, or difficult for workers to complete.
+
+Cylindrical manipulators can perform tasks with a high degree of precision and agility because of their unique shape and design. The manipulator's cylindrical shape and wide range of motion make it easy to rotate things and reach into small spaces. Depending on the intended use, the manipulator can be equipped with a several kinds of end-effectors, such as grippers, suction cups, and tool heads.
+
+Cylindrical manipulators are usually used in different industries, including manufacturing, automotive, and aerospace, as well as in research and development fields. They are often and usually used in assembly and disassembly tasks, as well as in handling and moving heavy or awkward objects in the field of industries.
+
+
+###
+
+<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+</p>
+
+###
+###
+
+###
+
+###
+
+###
+
+
+
+###
+
+
+
+###
+.
+
+
+###
+
+###
+
+.
+
+###
+###
+
+.
+
+
+
+# Abstract
+
+This read me profile talks about the cylindrical manipulator which is assigned to the said group. The manipulator is a important tool that will be used in the near future of industries and manufacturing. This is part of the continous advance research on its own field.
+
+
+###
+
+<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+</p>
+
+###
+###
+
+###
+
+###
+
+###
+
+
+
+###
+
+
+
+###
+.
+
+
+###
+
+###
+
+.
+
+###
+###
+
+.
+
+
+# SOLVING THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR
+
+
