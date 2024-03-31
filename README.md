@@ -178,3 +178,197 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 </a>
 
 
+###
+<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+</p>
+
+###
+
+###
+
+###
+
+###
+
+
+
+###
+
+
+
+###
+.
+
+
+###
+
+###
+
+.
+
+###
+###
+
+.
+
+
+# ˚ ༘♡ ⋆｡˚ DH FRAME RULES OF CYLINDRICAL MANIPULATOR
+
+
+###
+<p align="center">
+  <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/39679597-160c-482a-859f-7a10ff355866">
+</p>
+
+###
+<img align="left" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
+<img align="right" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
+</p>
+
+###
+<p align="center">
+"https://drive.google.com/drive/folders/1TS5CvWVjVaRwQ8vpbFUDK6reoptMQM_2?fbclid=IwAR16zdWJbdkgDo0KGfScVNfKZSpxTWc4hubE_fIYt3gu6cXm9J-nWmg5W1o_aem_AS_xEdXeUexQdOG-eJCxUjDO_nBLrBW26W-u97DY3NYOr62D6DiDDmGmGc5lqstMykkrmVMozgnyE7e1YZjrcnTP">
+</p>
+</a>
+
+###
+<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+</p>
+
+###
+
+###
+
+###
+
+###
+
+
+
+###
+
+
+
+###
+.
+
+
+###
+
+###
+
+.
+
+###
+###
+
+.
+
+# ˚ ༘♡ ⋆｡˚ DH PARAMETRIC TABLE OF CYLINDRICAL MANIPULATOR
+
+
+###
+<p align="center">
+  <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/a862da91-833b-4276-acd7-e6ac5da338b0">
+</p>
+
+###
+<img align="left" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
+<img align="right" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
+</p>
+
+###
+<p align="center">
+"https://drive.google.com/drive/folders/1TS5CvWVjVaRwQ8vpbFUDK6reoptMQM_2?fbclid=IwAR16zdWJbdkgDo0KGfScVNfKZSpxTWc4hubE_fIYt3gu6cXm9J-nWmg5W1o_aem_AS_xEdXeUexQdOG-eJCxUjDO_nBLrBW26W-u97DY3NYOr62D6DiDDmGmGc5lqstMykkrmVMozgnyE7e1YZjrcnTP">
+</p>
+</a>
+
+###
+<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+</p>
+
+###
+
+###
+
+###
+
+###
+
+
+
+###
+
+
+
+###
+.
+
+
+###
+
+###
+
+.
+
+###
+###
+
+.
+
+# ˚ ༘♡ ⋆｡˚ Solving the Inverse Kinematics solution using Graphical Method
+
+
+###
+<p align="center">
+  <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/b2ca44c9-a63c-4ab4-b984-47959ffb9044">
+</p>
+
+###
+<img align="left" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
+<img align="right" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
+</p>
+
+###
+<p align="center">
+"https://drive.google.com/drive/folders/1TS5CvWVjVaRwQ8vpbFUDK6reoptMQM_2?fbclid=IwAR16zdWJbdkgDo0KGfScVNfKZSpxTWc4hubE_fIYt3gu6cXm9J-nWmg5W1o_aem_AS_xEdXeUexQdOG-eJCxUjDO_nBLrBW26W-u97DY3NYOr62D6DiDDmGmGc5lqstMykkrmVMozgnyE7e1YZjrcnTP">
+</p>
+</a>
+
+###
+<img align="left" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+<img align="right" height="98" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ae9dacdb-6fc3-4208-8ce0-91f00b8d1af7"/> 
+</p>
+
+###
+
+###
+
+###
+
+###
+
+
+
+###
+
+
+
+###
+.
+
+
+###
+
+###
+
+.
+
+###
+###
+
+.
+
