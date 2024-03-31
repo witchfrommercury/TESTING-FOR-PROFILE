@@ -68,7 +68,7 @@
 
 ###
 
-# Introduction 
+# ˚ ༘♡ ⋆｡˚ Introduction 
 
 A cylindrical manipulator is an example of robotic device designed for three-dimensional object handling. It is also referred to as a cylindrical arm or robot. Just like the other robotic instruments, cylinder manipulators are designed to do the tasks that are not safe, hard labor, or difficult for workers to complete.
 
@@ -115,7 +115,7 @@ Cylindrical manipulators are usually used in different industries, including man
 
 
 
-# Abstract
+# ˚ ༘♡ ⋆｡˚ Abstract
 
 This read me profile talks about the cylindrical manipulator which is assigned to the said group. The manipulator is a important tool that will be used in the near future of industries and manufacturing. This is part of the continous advance research on its own field.
 
@@ -157,6 +157,24 @@ This read me profile talks about the cylindrical manipulator which is assigned t
 .
 
 
-# SOLVING THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR
+
+# ˚ ༘♡ ⋆｡˚ SOLVING THE DEGREES OF FREEDOM OF A CYLINDRICAL MANIPULATOR
+
+
+###
+<p align="center">
+  <img width="600" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/ee8ffc51-c634-4df1-99f2-58361922e94d">
+</p>
+
+###
+<img align="left" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"/> 
+<img align="right" height="100" src="https://github.com/witchfrommercury/TESTING-FOR-PROFILE/assets/157728066/afc8f8c8-6810-4517-9328-85884a332aa1"> 
+</p>
+
+###
+<p align="center">
+"https://drive.google.com/drive/folders/1TS5CvWVjVaRwQ8vpbFUDK6reoptMQM_2?fbclid=IwAR16zdWJbdkgDo0KGfScVNfKZSpxTWc4hubE_fIYt3gu6cXm9J-nWmg5W1o_aem_AS_xEdXeUexQdOG-eJCxUjDO_nBLrBW26W-u97DY3NYOr62D6DiDDmGmGc5lqstMykkrmVMozgnyE7e1YZjrcnTP">
+</p>
+</a>
 
 
